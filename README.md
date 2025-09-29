@@ -39,10 +39,10 @@ ECOMMERCE_APP/
 │   └── orders/orders.py     # Order management
 │
 ├── templates/           # HTML (Bootstrap styled)
-│   ├── base.html
-│   ├── users/           # register.html, login.html, dashboard.html
-│   ├── products/        # products.html
-│   └── orders/          # orders.html
+    ├── base.html
+    ├── users/           # register.html, login.html, dashboard.html
+    ├── products/        # products.html
+    └── orders/          # orders.html
 
 ## 🗂️ Excel Database (data_new.xlsx)
 
